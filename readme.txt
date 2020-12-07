@@ -5,3 +5,4 @@ Git tracks changes of files.
 Creating a new branch is quick and simple.
 test --no-ff
 Learning git again on dev.
+use --no-ff to merge.
