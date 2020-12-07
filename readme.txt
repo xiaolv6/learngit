@@ -7,3 +7,5 @@ test --no-ff
 Learning git again.
 Learning git again on dev.
 git merge
+Learning git again on dev.
+use --no-ff to merge.
